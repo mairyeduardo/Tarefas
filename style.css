@@ -43,3 +43,8 @@ margin-bottom: 40px;
     background-color: rgba(0, 0, 0, 0);
     margin: 10px 0px 05px 0px ;
 }
+
+.tarefas:hover {
+    background-color: #8FD14F;
+    
+}
