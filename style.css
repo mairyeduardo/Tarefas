@@ -1,21 +1,22 @@
 #titulo {
 text-align: center;
 font-style: normal;
+margin-bottom: 40px;
 }
 
 #div1 {
 text-align: center;
+margin-bottom: 40px;
 
 }
-
 
 .links {
     padding: 10px;
     border-radius: 100px;
     color: white;
     text-decoration: none;
+    margin: 00px 05px 10px 00px;
 }
-
 
 #pendentes{
     background-color:#8FD14F;
@@ -27,4 +28,18 @@ text-align: center;
 
 #excluidas {
   background-color: #EB4045;
+}
+
+#div2{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.tarefas {
+    padding: 15px;
+    border: 01px solid #8FD14F;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    margin: 10px 0px 05px 0px ;
 }
